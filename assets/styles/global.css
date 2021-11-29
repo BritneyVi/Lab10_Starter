@@ -104,6 +104,10 @@ main>section {
   color: rgb(196, 196, 196);
 }
 
+#explore textarea.green {
+  color: rgb(196,255,196)
+}
+
 #expose img {
   width: 100%;
 }
